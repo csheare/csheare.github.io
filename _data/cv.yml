@@ -15,20 +15,20 @@
   contents:
     - title: PhD Candidate
       institution: Harvard Medical School
-      year: Summer 2022 - present
+      year: 6/2022 - present
       description:
         -<a href="https://www.deboramarkslab.com/">Debora Marks Lab</a>
 
     - title: Bioinformatics & Machine Learning Researcher
       institution: Clemson University
-      year: Spring 2015- Spring 2019
+      year: 2015-2019
       description:
         - <a href="https://www.clemson.edu/science/academics/departments/genbio/about/profiles/ffeltus">Feltus Lab</a>
         - <a href="https://cufctl.github.io/">Future Computing Technologies Lab</a>
 
     - title: Bioinformatics Biocomplexity REU Student
       institution: University of Missouri
-      year: Summer 2016
+      year: Summer'16
       description:
         - <a href="http://conantlab.org/">Conant Lab</a>
 
@@ -37,15 +37,15 @@
   contents:
     - title: Bioinformatics Engineer
       institution: CRISPR Therapeutics
-      year: August 2020 - August 2021
+      year: 8/2020-8/2021
 
     - title: Bioinformatics Analyst/Engineer
       institution: Zymergen Inc.
-      year: June 2019 - July 2020
+      year: 6/2019 - 7/2020
 
     - title: Software Development Intern
       institution: Ancestry.com
-      year: Summer 2017 & 2018
+      year: Summer'17 & '18
     
 
 
