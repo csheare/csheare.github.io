@@ -31,7 +31,9 @@ I am a third year PhD candidate working with <a href='https://www.deboramarkslab
 I love all things <a href="https://www.genome.gov/genetics-glossary/Bioinformatics#:~:text=Bioinformatics%20is%20a%20subdiscipline%20of,DNA%20and%20amino%20acid%20sequences.">bioinformatics</a>, <a href="https://irp.nih.gov/catalyst/v19i6/systems-biology-as-defined-by-nih#:~:text=Systems%20biology%20is%20an%20approach,involves%20taking%20the%20pieces%20apart.">systems biology</a>, machine learning, and my arm can be twisted to write some <a href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing">"good software"</a>.
 </p>
 <p>
-Generally, Im interested in learning from both evolutionary (deep and presently!) and experimental biological sequence data. Currently, im thinking about problems in variant effect prediction across the whole genome and the design of genomic level sequences for therapeutics, agriculture, and beyond.</p>
+Generally, I am interested in learning from <b>past evolution</b>, <b>present population</b>, and <b>future experimental</b> biological sequence data. 
+<br>
+Currently, I am thinking about problems in variant effect prediction across the whole genome and the design of genomic level sequences for therapeutics, agriculture, and beyond.</p>
 
 <p>
 In my "free time" I exercise liberally, craft wildly, and spend time with my partner, lovingly.
