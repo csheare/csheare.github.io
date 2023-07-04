@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Systems Synthetic and Quantitative Biology PhD Candidate @ Harvard Medical School</a>
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: shearer.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>email: courtney </p>
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 Howdy, I'm Courtney Shearer, Welcome to my website!
 </p>
 <p>
-I am a third year PhD candidate working with <a href='https://www.deboramarkslab.com/deboramarks'>Debora Marks</a> at <b>Harvard Medical School</b> in the <a href="https://gsas.harvard.edu/programs-of-study/all/systems-biology">SSQB program. </a> I am supported by a NSF-GFRP fellowship.
+I am a third year PhD candidate working with <a href='https://www.deboramarkslab.com/deboramarks'>Debora Marks</a> at Harvard Medical School in the <a href="https://gsas.harvard.edu/programs-of-study/all/systems-biology">SSQB program. </a> I am supported by a NSF-GFRP fellowship.
 
 </p>
 <p>
