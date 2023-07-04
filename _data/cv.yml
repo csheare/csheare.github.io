@@ -23,14 +23,14 @@
       institution: Clemson University
       year: Spring 2015- Spring 2019
       description:
-        - [Feltus Lab](https://www.clemson.edu/science/academics/departments/genbio/about/profiles/ffeltus)
-        - [Future Computing Technologies Lab](https://cufctl.github.io/) 
+        - <a href="https://www.clemson.edu/science/academics/departments/genbio/about/profiles/ffeltus">Feltus Lab</a>
+        - <a href="https://cufctl.github.io/">Future Computing Technologies Lab</a>
 
     - title: Bioinformatics Biocomplexity REU Student
       institution: University of Missouri
       year: Summer 2016
       description:
-        - [Conant Lab](http://conantlab.org/)
+        - <a href="http://conantlab.org/">Conant Lab</a>
 
 - title: Industry Experience
   type: time_table
